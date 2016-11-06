@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalPoject.com.hotel.PriceTable" Collapsed="true">
+    <Position X="4" Y="1" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AEAhAAQAIYCAACBAAAGAAQAAAAAAAAggAAAAQAgAAAA=</HashCode>
+      <FileName>com\hotel\PriceTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalPoject.com.hotel.Room">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0AAAAAACAAAAAgAAAEQAQABAAAABABAAAQAQCMAAAAg=</HashCode>
+      <FileName>com\hotel\room\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

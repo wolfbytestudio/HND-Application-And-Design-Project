@@ -1,0 +1,205 @@
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\bin\Debug\FinalPoject.exe.config
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\MainWindow.baml
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\MainWindow.g.cs
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\App.g.cs
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.cache
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject.g.resources
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject.Properties.Resources.resources
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject.csproj.GenerateResource.Cache
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\bin\Debug\FinalPoject.exe
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\bin\Debug\FinalPoject.pdb
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\bin\Debug\Newtonsoft.Json.dll
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\bin\Debug\Newtonsoft.Json.xml
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject.exe
+c:\users\30008095\documents\visual studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject.pdb
+C:\Users\30008095\Documents\Visual Studio 2012\Projects\FinalPoject\FinalPoject\obj\Debug\FinalPoject.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\MainWindow.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Login.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\App.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.cache
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.lref
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\MainWindow.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Login.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.exe
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.pdb
+C:\Users\Zack\Desktop\final projecty\FinalPoject\bin\Debug\FinalPoject.exe.config
+C:\Users\Zack\Desktop\final projecty\FinalPoject\bin\Debug\FinalPoject.exe
+C:\Users\Zack\Desktop\final projecty\FinalPoject\bin\Debug\FinalPoject.pdb
+C:\Users\Zack\Desktop\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zack\Desktop\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.g.resources
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.Properties.Resources.resources
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.csproj.GenerateResource.Cache
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\bin\Debug\FinalPoject.exe.config
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\bin\Debug\FinalPoject.exe
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\bin\Debug\FinalPoject.pdb
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\MainWindow.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\Login.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\App.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.cache
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.lref
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\MainWindow.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\Login.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject.g.resources
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject.Properties.Resources.resources
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject.csproj.GenerateResource.Cache
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject.exe
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject.pdb
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\FinalPoject.csprojResolveAssemblyReference.cache
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.baml
+C:\Users\30008095\Desktop\fiu\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\bin\Debug\FinalPoject.exe.config
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.exe
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.pdb
+C:\Users\30008095\Desktop\final projecty\FinalPoject\bin\Debug\FinalPoject.exe
+C:\Users\30008095\Desktop\final projecty\FinalPoject\bin\Debug\FinalPoject.pdb
+C:\Users\30008095\Desktop\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\30008095\Desktop\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.csprojResolveAssemblyReference.cache
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\MainWindow.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Login.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\App.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.cache
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.lref
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\MainWindow.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Login.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.g.resources
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.Properties.Resources.resources
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.csproj.GenerateResource.Cache
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.baml
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.g.cs
+C:\Users\30008095\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\FinalPoject.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\RoomControl.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomUser.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\controls\RoomControl.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomUser.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomAdvanceUser.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomAdvanceUser.baml
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\EditUser.g.cs
+C:\Users\Zack\Desktop\final projecty\FinalPoject\obj\Debug\ui\pages\EditUser.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\bin\Debug\FinalPoject.exe.config
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.exe
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.pdb
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\bin\Debug\FinalPoject.exe
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\bin\Debug\FinalPoject.pdb
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.csprojResolveAssemblyReference.cache
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\RoomControl.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\MainWindow.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomAdvanceUser.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomUser.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\EditUser.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Login.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\App.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.cache
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.lref
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\RoomControl.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\MainWindow.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomAdvanceUser.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomUser.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\EditUser.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Login.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.baml
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.g.resources
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.Properties.Resources.resources
+C:\Users\30008095\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.csproj.GenerateResource.Cache
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\bin\Debug\FinalPoject.exe.config
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.exe
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.pdb
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\bin\Debug\FinalPoject.exe
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\bin\Debug\FinalPoject.pdb
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\RoomControl.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\SmallContactControl.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\MainWindow.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomAdvanceUser.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomUser.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\EditUser.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Login.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\App.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.cache
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject_MarkupCompile.lref
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\HotelButton.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\RoomControl.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\MainWindow.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\AddRoom.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomAdvanceUser.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\BookRoomUser.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Contacts.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\EditUser.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\HomePage.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Login.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\PriceTableChanger.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\RegisterAccount.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.g.resources
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.Properties.Resources.resources
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.csproj.GenerateResource.Cache
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\TransactionControl.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Transactions.g.cs
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\controls\TransactionControl.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\ui\pages\Transactions.baml
+C:\Users\Zack\Desktop\final project\final projecty\FinalPoject\obj\Debug\FinalPoject.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Documents\GitHub\HND-Application-And-Design-Project\Final Project\FinalPoject\bin\Debug\FinalPoject.exe.config
+C:\Users\Zack\Documents\GitHub\HND-Application-And-Design-Project\Final Project\FinalPoject\obj\Debug\FinalPoject.exe
+C:\Users\Zack\Documents\GitHub\HND-Application-And-Design-Project\Final Project\FinalPoject\obj\Debug\FinalPoject.pdb

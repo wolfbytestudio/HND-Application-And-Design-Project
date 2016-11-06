@@ -1,0 +1,12 @@
+﻿<UserControl x:Name="ctrlPerson" x:Class="FinalPoject.ui.controls.SmallContactControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="34.172" Background="#FF17181C" Width="307.214" MouseEnter="ctrlPerson_MouseEnter" MouseLeave="ctrlPerson_MouseLeave" MouseUp="ctrlPerson_MouseUp">
+    <Grid>
+        <Label x:Name="lblId" Content="User Id:" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FFECECEC" Height="34" Width="93" FontSize="14.667"/>
+        <Label x:Name="lblName" Content="Name:" HorizontalAlignment="Left" Margin="93,0,0,0" VerticalAlignment="Top" Foreground="#FFECECEC" Height="34" Width="227" FontSize="14.667"/>
+
+    </Grid>
+</UserControl>

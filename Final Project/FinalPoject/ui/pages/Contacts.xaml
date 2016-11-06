@@ -1,0 +1,40 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:controls="clr-namespace:FinalPoject.ui.controls" x:Class="FinalPoject.ui.pages.Contacts" 
+      mc:Ignorable="d"
+	Title="Contacts" Background="#FF17181C" Width="849" Height="453">
+
+    <Grid>
+        <TextBlock x:Name="lblTitle" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFECECEC" Height="37" Width="849" FontSize="16" TextAlignment="Center" Padding="0,7,0,0"><Run Language="en-gb" Text="Contacts"/></TextBlock>
+        <TextBlock x:Name="lblContacts" HorizontalAlignment="Left" Margin="0,42,0,0" VerticalAlignment="Top" Width="326" Foreground="#FFCBCBCB" FontStyle="Italic" TextAlignment="Center" Height="21" FontSize="13.333"><Run Text="Contact"/><Run Text=" List"/></TextBlock>
+        <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Height="23" Margin="10,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" TextChanged="txtSearch_TextChanged"/>
+
+        <controls:HotelButton x:Name="btnClear" HorizontalAlignment="Left" Margin="215,68,0,0" VerticalAlignment="Top" Width="106" Filled="True" ButtonText="Clear" MouseUp="btnClear_MouseUp"/>
+        <ScrollViewer Margin="0,97,523,0">
+            <StackPanel x:Name="stkContacts" HorizontalAlignment="Left" Height="367" VerticalAlignment="Top" Width="326"/>
+        </ScrollViewer>
+        <Rectangle Fill="#FF404040" HorizontalAlignment="Left" Height="416" Margin="328,37,0,0" VerticalAlignment="Top" Width="2"/>
+        <Rectangle Fill="#FF404040" HorizontalAlignment="Left" Height="2" Margin="0,37,0,0" VerticalAlignment="Top" Width="849"/>
+        <Grid x:Name="grdContact" HorizontalAlignment="Left" Height="399" Margin="335,44,0,0" VerticalAlignment="Top" Width="504" Visibility="Hidden" Loaded="grdContact_Loaded">
+            <Label x:Name="lblContactName" Content="Contact Name: Null" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Width="323" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblContactId" Content="Contact ID: 0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="323" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblPassword" Content="Contact Password: Null" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Width="323" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblAddress" Content="Contact Address" HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top" Width="494" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblStreet" Content="Street: Ayr Road" HorizontalAlignment="Left" Margin="10,145,0,0" VerticalAlignment="Top" Width="140" Foreground="#FFB0B0B0" FontSize="13.333"/>
+            <Label x:Name="lblCity" Content="City: Glespin" HorizontalAlignment="Left" Margin="150,145,0,0" VerticalAlignment="Top" Width="125" Foreground="#FFB0B0B0" FontSize="13.333"/>
+            <Label x:Name="lblPostcode" Content="Postcode: ML110SF" HorizontalAlignment="Left" Margin="275,145,0,0" VerticalAlignment="Top" Width="136" Foreground="#FFB0B0B0" FontSize="13.333"/>
+            <Label x:Name="lblHouseNo" Content="House: 525" HorizontalAlignment="Left" Margin="411,145,0,0" VerticalAlignment="Top" Width="93" Foreground="#FFB0B0B0" FontSize="13.333"/>
+            <Label x:Name="lblDiscount" Content="Discount: 50%" HorizontalAlignment="Left" Margin="10,178,0,0" VerticalAlignment="Top" Width="494" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblPhone" Content="Phone Number: 07495255534" HorizontalAlignment="Left" Margin="10,213,0,0" VerticalAlignment="Top" Width="494" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblDebit" Content="Debit Amount:  £15,000" HorizontalAlignment="Left" Margin="10,248,0,0" VerticalAlignment="Top" Width="494" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblPersonType" Content="Person Type: ADMINISTRATOR" HorizontalAlignment="Left" Margin="10,283,0,0" VerticalAlignment="Top" Width="494" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <Label x:Name="lblDeleted" Content="Deleted: Yes/No" HorizontalAlignment="Left" Margin="10,318,0,0" VerticalAlignment="Top" Width="494" Foreground="#FFE2E2E2" FontSize="14.667"/>
+            <controls:HotelButton x:Name="btnEditContact" HorizontalAlignment="Left" Margin="368,5,0,0" VerticalAlignment="Top" Width="126" Height="35" ButtonText="Edit Contact" Filled="True" MouseUp="btnEditContact_MouseUp"/>
+        </Grid>
+        <controls:HotelButton x:Name="btnMainMenu" HorizontalAlignment="Left" Margin="492,410,0,0" VerticalAlignment="Top" Width="172" Height="33" ButtonText="Back to Main Menu" Filled="True" BaseColor="#B1241E" MouseUp="btnMainMenu_MouseUp"/>
+
+    </Grid>
+</Page>

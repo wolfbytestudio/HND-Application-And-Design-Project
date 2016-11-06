@@ -1,0 +1,37 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:FinalPoject.ui.pages"
+      xmlns:controls="clr-namespace:FinalPoject.ui.controls" x:Class="FinalPoject.ui.pages.RegisterAccount"
+      mc:Ignorable="d" d:DesignWidth="300"
+      Title="RegisterAccount" HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FF17181C" Height="371">
+
+    <Grid HorizontalAlignment="Left" Width="300">
+        <TextBlock x:Name="lblRegisterNewAccount" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Create Account" VerticalAlignment="Top" Width="280" Foreground="#FFEAEAEA" FontSize="18.667" TextAlignment="Center"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="27" Margin="10,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" FontSize="14.667"/>
+        <TextBlock x:Name="lblUsername" HorizontalAlignment="Left" Margin="10,44,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="36" Foreground="#FFBFBFBF"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Height="27" Margin="10,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" FontSize="14.667"/>
+        <TextBlock x:Name="lblPassword" HorizontalAlignment="Left" Margin="10,97,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="52" Foreground="#FFBFBFBF"/>
+        <TextBlock x:Name="lblPassword_Copy" HorizontalAlignment="Left" Margin="70,97,0,0" TextWrapping="Wrap" Text="- Visible" VerticalAlignment="Top" Width="76" Foreground="#FF707070" FontStyle="Italic"/>
+        <TextBlock x:Name="asterix" HorizontalAlignment="Left" Margin="46,44,0,0" TextWrapping="Wrap" Text="*" VerticalAlignment="Top" Width="16" Foreground="#FFDE2828"/>
+        <TextBlock x:Name="asterix_Copy" HorizontalAlignment="Left" Margin="62,92,0,0" TextWrapping="Wrap" Text="*" VerticalAlignment="Top" Width="16" Foreground="#FFDE2828"/>
+        <TextBlock x:Name="lblUsername_Copy" HorizontalAlignment="Left" Margin="10,150,0,0" TextWrapping="Wrap" Text="Address" VerticalAlignment="Top" Width="45" Foreground="#FFBFBFBF"/>
+        <TextBlock x:Name="asterix_Copy1" HorizontalAlignment="Left" Margin="57,150,0,0" TextWrapping="Wrap" Text="*" VerticalAlignment="Top" Width="16" Foreground="#FFDE2828"/>
+        <TextBlock x:Name="lblUsername_Copy1" HorizontalAlignment="Left" Margin="26,171,0,0" TextWrapping="Wrap" Text="Street" VerticalAlignment="Top" Width="36" Foreground="#FFBFBFBF"/>
+        <TextBlock x:Name="lblUsername_Copy2" HorizontalAlignment="Left" Margin="10,44,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="36" Foreground="#FFBFBFBF"/>
+        <TextBox x:Name="txtStreet" HorizontalAlignment="Left" Height="27" Margin="26,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" FontSize="14.667"/>
+        <TextBlock x:Name="lblUsername_Copy3" HorizontalAlignment="Left" Margin="26,222,0,0" TextWrapping="Wrap" Text="Town" VerticalAlignment="Top" Width="36" Foreground="#FFBFBFBF"/>
+        <TextBox x:Name="txtTown" HorizontalAlignment="Left" Height="26" Margin="26,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" FontSize="14.667"/>
+        <TextBlock x:Name="lblUsername_Copy4" HorizontalAlignment="Left" Margin="164,171,0,0" TextWrapping="Wrap" Text="House Number" VerticalAlignment="Top" Width="109" Foreground="#FFBFBFBF"/>
+        <TextBox x:Name="txtPostCode" HorizontalAlignment="Left" Height="26" Margin="164,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" FontSize="14.667"/>
+        <TextBox x:Name="txtPhoneNumber" HorizontalAlignment="Left" Height="27" Margin="10,296,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" FontSize="14.667"/>
+        <TextBlock x:Name="lblUsername_Copy5" HorizontalAlignment="Left" Margin="10,275,0,0" TextWrapping="Wrap" Text="Phone Number" VerticalAlignment="Top" Width="95" Foreground="#FFBFBFBF"/>
+        <TextBlock x:Name="asterix_Copy2" HorizontalAlignment="Left" Margin="96,275,0,0" TextWrapping="Wrap" Text="*" VerticalAlignment="Top" Width="16" Foreground="#FFDE2828"/>
+        <controls:HotelButton x:Name="btnRegister" HorizontalAlignment="Left" Margin="134,336,0,0" VerticalAlignment="Top" Width="156" Filled="True" ButtonText="Register" MouseUp="btnRegister_MouseUp"/>
+        <controls:HotelButton x:Name="btnCancel" HorizontalAlignment="Left" Margin="10,336,0,0" VerticalAlignment="Top" Width="119" Filled="True" ButtonText="Cancel" BaseColor="#B1241E" MouseUp="btnCancel_MouseUp"/>
+        <TextBlock x:Name="lblUsername_Copy6" HorizontalAlignment="Left" Margin="164,222,0,0" TextWrapping="Wrap" Text="Postcode" VerticalAlignment="Top" Width="62" Foreground="#FFBFBFBF"/>
+        <TextBox x:Name="txtHouseNumber" HorizontalAlignment="Left" Height="26" Margin="164,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" FontSize="14.667"/>
+    </Grid>
+</Page>

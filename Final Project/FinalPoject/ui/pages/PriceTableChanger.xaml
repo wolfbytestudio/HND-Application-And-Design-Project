@@ -1,0 +1,67 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:controls="clr-namespace:FinalPoject.ui.controls" x:Class="FinalPoject.ui.pages.PriceTableChanger" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300"
+	Title="PriceTableChanger" Width="730" Background="#FF17181C" HorizontalAlignment="Center" VerticalAlignment="Center" Height="300">
+
+    <Grid>
+        <TextBlock x:Name="lblTitle" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFECECEC" Height="37" Width="720" FontSize="16" TextAlignment="Center" Margin="0" Padding="0,7,0,0"><Run Language="en-gb" Text="Price Table"/></TextBlock>
+        <Rectangle Fill="#FF292B32" HorizontalAlignment="Left" Height="36" Margin="26,92,0,0" VerticalAlignment="Top" Width="671"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116" Foreground="Gainsboro" FontSize="14"><Run Language="en-gb" Text="Single Bedroom"/></TextBlock>
+        <Rectangle Fill="#FF58C930" Margin="161,96,567,175"/>
+        <TextBlock HorizontalAlignment="Left" Margin="26,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="21" Foreground="#FFA2A2A2" FontSize="14" FontStyle="Italic" TextAlignment="Center"><Run Language="en-gb" Text="Bedroom Type"/></TextBlock>
+        <TextBox x:Name="txt1HighDaily" HorizontalAlignment="Left" Height="23" Margin="182,99,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt1HighWeekly" HorizontalAlignment="Left" Height="23" Margin="255,99,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBlock HorizontalAlignment="Left" Margin="184,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="36" Foreground="#FFA2A2A2" FontStyle="Italic" TextAlignment="Center"><Run Language="en-gb" Text="High Season"/><LineBreak/><Run Language="en-gb" Text="Daily     /     Weekly"/></TextBlock>
+        <Rectangle Fill="#FF58C930" Margin="338,96,390,175"/>
+        <TextBox x:Name="txt1MidDaily" HorizontalAlignment="Left" Height="23" Margin="362,99,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt1MidWeekly" HorizontalAlignment="Left" Height="23" Margin="435,99,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBlock HorizontalAlignment="Left" Margin="367,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="36" Foreground="#FFA2A2A2" FontStyle="Italic" TextAlignment="Center"><Run Language="en-gb" Text="Mid  Season"/><LineBreak/><Run Language="en-gb" Text="Daily     /     Weekly"/></TextBlock>
+        <Rectangle Fill="#FF58C930" Margin="520,96,208,175"/>
+        <TextBox x:Name="txt1LowDaily" HorizontalAlignment="Left" Height="23" Margin="546,99,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt1LowWeekly" HorizontalAlignment="Left" Height="23" Margin="619,99,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBlock HorizontalAlignment="Left" Margin="550,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="36" Foreground="#FFA2A2A2" FontStyle="Italic" TextAlignment="Center"><Run Language="en-gb" Text="Low Season"/><LineBreak/><Run Language="en-gb" Text="Daily     /     Weekly"/></TextBlock>
+        <Rectangle Fill="#FF17181C" HorizontalAlignment="Left" Height="36" Margin="26,128,0,0" VerticalAlignment="Top" Width="671"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116" Foreground="Gainsboro" FontSize="14"><Run Language="en-gb" Text="Double Bedroom"/></TextBlock>
+        <Rectangle Fill="#FF58C930" Margin="161,132,567,139"/>
+        <TextBox x:Name="txt2HighDaily" HorizontalAlignment="Left" Height="23" Margin="182,135,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt2HighWeekly" HorizontalAlignment="Left" Height="23" Margin="255,135,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF58C930" Margin="338,132,390,139"/>
+        <TextBox x:Name="txt2MidDaily" HorizontalAlignment="Left" Height="23" Margin="362,135,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt2MidWeekly" HorizontalAlignment="Left" Height="23" Margin="435,135,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF58C930" Margin="520,132,208,139"/>
+        <TextBox x:Name="txt2LowDaily" HorizontalAlignment="Left" Height="23" Margin="546,135,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt2LowWeekly" HorizontalAlignment="Left" Height="23" Margin="619,135,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF292B32" HorizontalAlignment="Left" Height="36" Margin="26,164,0,0" VerticalAlignment="Top" Width="671"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116" Foreground="Gainsboro" FontSize="14"><Run Language="en-gb" Text="Treble Bedroom"/></TextBlock>
+        <Rectangle Fill="#FF58C930" Margin="161,168,567,103"/>
+        <TextBox x:Name="txt3HighDaily" HorizontalAlignment="Left" Height="23" Margin="182,171,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt3HighWeekly" HorizontalAlignment="Left" Height="23" Margin="255,171,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF58C930" Margin="338,168,390,103"/>
+        <TextBox x:Name="txt3MidDaily" HorizontalAlignment="Left" Height="23" Margin="362,171,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt3MidWeekly" HorizontalAlignment="Left" Height="23" Margin="435,171,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF58C930" Margin="520,168,208,103"/>
+        <TextBox x:Name="txt3LowDaily" HorizontalAlignment="Left" Height="23" Margin="546,171,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt3LowWeekly" HorizontalAlignment="Left" Height="23" Margin="619,171,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF17181C" HorizontalAlignment="Left" Height="36" Margin="26,200,0,0" VerticalAlignment="Top" Width="671"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,208,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116" Foreground="Gainsboro" FontSize="14"><Run Language="en-gb" Text="Family Bedroom"/></TextBlock>
+        <Rectangle Fill="#FF58C930" Margin="161,204,567,67"/>
+        <TextBox x:Name="txt4HighDaily" HorizontalAlignment="Left" Height="23" Margin="182,207,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt4HighWeekly" HorizontalAlignment="Left" Height="23" Margin="255,207,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF58C930" Margin="338,204,390,67"/>
+        <TextBox x:Name="txt4MidDaily" HorizontalAlignment="Left" Height="23" Margin="362,207,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt4MidWeekly" HorizontalAlignment="Left" Height="23" Margin="435,207,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <Rectangle Fill="#FF58C930" Margin="520,204,208,67"/>
+        <TextBox x:Name="txt4LowDaily" HorizontalAlignment="Left" Height="23" Margin="546,207,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="txt4LowWeekly" HorizontalAlignment="Left" Height="23" Margin="619,207,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="61"/>
+
+        <controls:HotelButton x:Name="btnSave" HorizontalAlignment="Left" Margin="353,266,0,0" VerticalAlignment="Top" Width="136" ButtonText="Update" Filled="True" MouseUp="btnSave_MouseUp"/>
+        <controls:HotelButton x:Name="btnSave_Copy" HorizontalAlignment="Left" Margin="212,266,0,0" VerticalAlignment="Top" Width="136" ButtonText="Cancel" BaseColor="#B1241E" Filled="True" MouseUp="btnSave_Copy_MouseUp"/>
+        <TextBlock x:Name="lblMessage" HorizontalAlignment="Left" Margin="225,241,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="264" Foreground="#FFD42929" TextAlignment="Center" Visibility="Hidden"><Run Language="en-gb" Text="Sucessfully updated the price table"/></TextBlock>
+
+    </Grid>
+</Page>
